@@ -1,14 +1,7 @@
 # ToDoApp
 
 
-<ul>
-<li>Create New Tasks from the Action button.</li>
-<li>Locally store created Task using database file.</li>
-<li>Fetch and Display Complete and InComplete Tasks from the locale db file.</li>
-<li>Mark a Task as Done.</li>
-<li>Update and Delete feature from the local db file.</li>
-</ul>
-
+A new Flutter project.
 
 ## Getting Started
 
